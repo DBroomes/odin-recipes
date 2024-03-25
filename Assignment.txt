@@ -38,3 +38,9 @@ Example:
     <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
 </ul>
 Your links won’t be flashy, but for now just focus on building them out.
+
+https://www.allrecipes.com/recipe/11758/baked-ziti-i/
+
+https://www.allrecipes.com/recipe/21702/grandmothers-pound-cake-ii/
+
+https://www.allrecipes.com/copycat-mcdonalds-filet-o-fish-sandwich-recipe-8580443
